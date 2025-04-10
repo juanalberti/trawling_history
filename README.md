@@ -8,7 +8,7 @@ This repository has three files:
 2. todas_final.RDS
 3. trawling_history.R
 
-**prod_final.csv**: Abductor muscle production (in tons) by date and fishing trip
+**prod_final.csv**: Abductor muscle production (in tonnes) by date and fishing trip
 
 **todas_final.RDS**: Geometry of each fishing trawl across the entire history of the fishery, along with date, time, and fishing trip information
 
