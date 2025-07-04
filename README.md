@@ -7,9 +7,12 @@ This repository has three files:
 1. prod_final.csv
 2. todas_final.RDS
 3. trawling_history.R
+4. haul_reconstruction.R
 
 **prod_final.csv**: Abductor muscle production (in tonnes) by date and fishing trip
 
 **todas_final.RDS**: Geometry of each fishing trawl across the entire history of the fishery, along with date, time, and fishing trip information
 
 **trawling_history.R**: R code to reproduce analyses of the companion paper.
+
+**haul_reconstruction.R**: R code to produce the fishing polygons used in the analyses from initial and final positions registered on logbooks
